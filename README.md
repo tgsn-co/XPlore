@@ -68,7 +68,7 @@ from xplore import gatherdata
 keyword = 'your_keyword'
 max_results = 100
 max_pages = 10
-mentions, users = gatherdata.keywordsearch(bearer_token, keyword, max_results, max_pages)
+keywordsearch(bearer_token, keyword, max_results=100, max_pages=10)
 ```
 
 ### 5. Analyzing Tweet Languages
