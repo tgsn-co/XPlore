@@ -16,7 +16,7 @@
 To use Xplore, you need to have Python installed on your system along with the required libraries. You can install the required libraries using pip:
 
 ```bash
-pip install requirements
+pip install requirements.txt
 ```
 
 ## Usage
